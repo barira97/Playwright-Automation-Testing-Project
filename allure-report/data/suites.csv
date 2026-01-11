@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","27832","Successfully filtered, add the product and Checkout","chromium","2026-01-11","passed","2026-01-11","Swag Labs site Purchase item test journey by filtering","purchaseJourney.spec.js","",""
+"","22704","Successfully add the products and Checkout","chromium","2026-01-10","passed","2026-01-10","Swag Labs site login test journeys","addToCart.spec.js","",""
+"","20670","Successfully add the products and Checkout","chromium","2026-01-10","passed","2026-01-10","Swag Labs site login test journeys","login.spec.js","",""
+"","22934","Successfully add the products and Checkout","chromium","2026-01-11","passed","2026-01-11","Swag Labs site add to cart 3 items test journeys","addToCart.spec.js","",""
+"","7760","Unsuccessfully login with invalid information","chromium","2026-01-10","passed","2026-01-10","Swag Labs site login test journeys","addToCart.spec.js","",""
+"","7487","Unsuccessfully login with invalid information","chromium","2026-01-11","passed","2026-01-11","Swag Labs site login test journeys","login.spec.js","",""
