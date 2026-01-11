@@ -16,7 +16,7 @@ The goal of this project is to validate critical user workflows such as:
 
 -> Sorting, filtering, checkout and logout flow
 
-## 🔍 Test Scenarios Covered
+## Test Scenarios Covered
 
 ### Q1 – Locked User Login Validation
 
