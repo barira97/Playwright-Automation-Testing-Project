@@ -78,11 +78,16 @@ npx playwright test --list
 ### 4️⃣ Run in headed mode
 npm run test --headed
 
-### 6️⃣ Run to see the Allure report
+### 5️⃣ Run to see the Allure report
 npm run getReport
 
-### 6 Run to view the report
+### 6️⃣ Run to view the report
 npx playwright show-report
+
+## Execution Recording URL:
+
+### Project Execution Recording URL: https://drive.google.com/file/d/1Srx0r5ZSNbDOiMvWhcgzYNA1YBzNfekY/view?usp=sharing
+### Allure Report Recording URL: https://drive.google.com/file/d/1S0Av3NAwX3-40A3GRugpiHz5lAuZKU5O/view?usp=sharing
 
 ## Framework Features
 
