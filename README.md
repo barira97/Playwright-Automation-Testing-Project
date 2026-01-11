@@ -1,8 +1,8 @@
-# 🧪 Swag Labs Automation Testing Project
+#  Swag Labs Automation Testing Project
 
 Using Playwright + Page Object Model (POM)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an end-to-end automation testing framework built using Playwright for the Swag Labs website (https://www.saucedemo.com/).
 
@@ -22,7 +22,7 @@ The goal of this project is to validate critical user workflows such as:
 
 -> Login with locked_out_user
 
--> Verify correct error message is displayed
+-> Verify the correct error message is displayed
 
 ### Q2 – Standard User Purchase Journey
 
@@ -30,7 +30,7 @@ The goal of this project is to validate critical user workflows such as:
 
 -> Reset App State
 
--> Add any 3 products to cart
+-> Add any 3 products to the cart
 
 -> Proceed to checkout
 
