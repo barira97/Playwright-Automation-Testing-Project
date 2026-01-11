@@ -86,8 +86,8 @@ npx playwright show-report
 
 ## Execution Recording URL:
 
-### Project Execution Recording URL: https://drive.google.com/file/d/1Srx0r5ZSNbDOiMvWhcgzYNA1YBzNfekY/view?usp=sharing
-### Allure Report Recording URL: https://drive.google.com/file/d/1S0Av3NAwX3-40A3GRugpiHz5lAuZKU5O/view?usp=sharing
+Project Execution Recording URL: https://drive.google.com/file/d/1Srx0r5ZSNbDOiMvWhcgzYNA1YBzNfekY/view?usp=sharing
+Allure Report Recording URL: https://drive.google.com/file/d/1S0Av3NAwX3-40A3GRugpiHz5lAuZKU5O/view?usp=sharing
 
 ## Framework Features
 
